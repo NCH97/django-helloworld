@@ -1,6 +1,20 @@
 # django-helloworld
 
-git clone https://github.com/NCH97/django-helloworld.git
-cd django-helloworld
-pip install -r requirements.txt
-python manage.py runserver
+Print "Hello,World" with django-python
+
+
+## Installation
+
+For run, you need to install Django framework execute the follow command:
+
+```bash
+  cd django-helloworld
+  pip install -r requirements.txt
+```
+    
+## Deployment
+
+To deploy this project run
+
+```bash
+  python manage.py runserver
